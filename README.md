@@ -5,12 +5,12 @@ View Demo👇: <br />
 https://portfolio-website-one-xi.vercel.app/ <br />
 
 ### Images of The Portfolio Website:
-![HOME](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Home.png)
-![Intro](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Intro.png)
-![Blog](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Blog.png)
-![Home Mobile](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Home-Mobile.png)
-![Intro Mobile](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Intro-Mobile.png)
-![Intro Blog](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Blog-Mobile.png)
+![HOME]
+![Intro]
+![Blog]
+![Home Mobile]
+![Intro Mobile]
+![Intro Blog]
 
 
 ### Resources Used in This Project
