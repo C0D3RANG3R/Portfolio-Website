@@ -4,15 +4,6 @@
 View Demo👇: <br />
 https://portfolio-website-one-xi.vercel.app/ <br />
 
-### Images of The Portfolio Website:
-![HOME]
-![Intro]
-![Blog]
-![Home Mobile]
-![Intro Mobile]
-![Intro Blog]
-
-
 ### Resources Used in This Project
 
 Design in : https://www.figma.com/ <br />
